@@ -1,5 +1,4 @@
 %% Finding a promoter with optimal values of ON~1 and OFF~0
-% We can it 'evolution' as it evolves through 
 function [] = computeEvolutionofPromoter_190420(count, Tinit, smallValue)
 
 
